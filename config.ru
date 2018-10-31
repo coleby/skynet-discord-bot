@@ -1,0 +1,1 @@
+require_relative 'lib/cory_bot'
