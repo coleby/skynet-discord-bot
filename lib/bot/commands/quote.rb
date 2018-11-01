@@ -22,7 +22,8 @@ module SkyBot
         "I love all :heart:",
         "Physically wifey AHAHA",
         "I have the G just no one to share it with sadly",
-        "Pohtahtohs and bubble tea :v:"
+        "Pohtahtohs and bubble tea :v:",
+        "where's the icing?"
       ]
 
       command(:quote, description: 'Quote Sky') do |event, boss, difficulty, **_|
